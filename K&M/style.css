@@ -16,11 +16,11 @@ a:hover { text-decoration:underline;}
 .menu ul { text-align: right;  padding-right:15px; margin:0; list-style:none; border:0; float:right;}
 .menu ul li { float:left; margin:0; padding:0 7px; border:0; background-image:url(images/bg_menu.gif); background-repeat:no-repeat; background-position: top right;}
 .menu ul li.last {background:none;padding-right:0px;}
-.menu ul li a { float:left; margin:0; padding:12px 0; color:#ffffff; font:normal 16px Arial, Helvetica, sans-serif; text-decoration:none;}
+.menu ul li a { float:left; margin:0; padding:12px 0; color:#43adc3; font:normal 16px Arial, Helvetica, sans-serif; text-decoration:none;}
 .menu ul li a span { padding:12px 7px; background:none;}
-.menu ul li a:hover { color:#4aadc3;  /*background: url(images/r_menu.gif);*/}
+.menu ul li a:hover { color:black;  /*background: url(images/r_menu.gif);*/}
 .menu ul li a:hover span {   /*background:url(images/l_menu.gif) no-repeat left;*/}
-.menu ul li a.active { color:#4aadc3; /*background:url(images/r_menu.gif);*/}
+.menu ul li a.active { color:black; /*background:url(images/r_menu.gif);*/}
 .menu ul li a.active span {   /*background:url(images/l_menu.gif) no-repeat left;*/}
 /* search */
 .search { padding:15px 0 5px 0; margin:0 auto; width:320px;}
