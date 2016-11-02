@@ -7,7 +7,7 @@ a:hover { text-decoration:underline;}
 /* main */
 .main { padding:0; margin:0 auto;}
 /********** header **********/
-.blok_header { margin:0; padding:0;background-color:#ffff}
+.blok_header { margin:0; padding:0;background-color:#2d3b84}
 .header { width:960px; margin:0 auto; padding:0;}
 
 
@@ -18,9 +18,9 @@ a:hover { text-decoration:underline;}
 .menu ul li.last {background:none;padding-right:0px;}
 .menu ul li a { float:left; margin:0; padding:12px 0; color:#43adc3; font:normal 16px Arial, Helvetica, sans-serif; text-decoration:none;}
 .menu ul li a span { padding:12px 7px; background:none;}
-.menu ul li a:hover { color:black;  /*background: url(images/r_menu.gif);*/}
+.menu ul li a:hover { color:#fff8e5;  /*background: url(images/r_menu.gif);*/}
 .menu ul li a:hover span {   /*background:url(images/l_menu.gif) no-repeat left;*/}
-.menu ul li a.active { color:black; /*background:url(images/r_menu.gif);*/}
+.menu ul li a.active { color:#fff8e5; /*background:url(images/r_menu.gif);*/}
 .menu ul li a.active span {   /*background:url(images/l_menu.gif) no-repeat left;*/}
 /* search */
 .search { padding:15px 0 5px 0; margin:0 auto; width:320px;}
@@ -85,12 +85,12 @@ a:hover { text-decoration:underline;}
 .FBG2_resize .left { width:180px; float:left; margin:0; padding:10px 20px 10px 0px;}
 /* END_bloga*/
 /*************footer**********/
-.footer {padding:0;  margin:0; background-color:#2d3b84; }
+.footer {padding:0;  margin:0; height: 210px; background-color:#2d3b84; }
 .footer_resize { width:930px; margin:0 auto; padding:0 10px;}
 .footer p { font:normal 11px  Arial, Helvetica, sans-serif; color:#ffffff;}
 .footer a { font:normal 11px Arial, Helvetica, sans-serif; color:#7a7a7a; text-decoration:none; padding:5px; margin:0;}
 .footer img { margin:0; padding:0; float:left;}
-.footer p.leftt { text-align:left; width:350px; margin:0;margin-top: 20px;padding:45px 0 0 0; float:right;}
+.footer p.leftt { text-align:left; width:350px; margin:0;margin-top: 20px;padding:10px 0 0 0; float:right;}
 /********** contact form **********/
 #contactform { margin:0; padding:5px 10px;}
 #contactform * { color:#F00;}
