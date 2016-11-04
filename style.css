@@ -90,7 +90,7 @@ a:hover { text-decoration:underline;}
 .footer p { font:normal 11px  Arial, Helvetica, sans-serif; color:#ffffff;}
 .footer a { font:normal 11px Arial, Helvetica, sans-serif; color:#7a7a7a; text-decoration:none; padding:5px; margin:0;}
 .footer img { margin:0; padding:0; float:left;}
-.footer p.leftt { text-align:left; width:350px; margin:0;margin-top: 20px;padding:10px 0 0 0; float:right;}
+.footer p.leftt { text-align:left; width:350px; margin:0;margin-top: 20px;padding:75px 0 0 0; float:right;}
 /********** contact form **********/
 #contactform { margin:0; padding:5px 10px;}
 #contactform * { color:#F00;}
